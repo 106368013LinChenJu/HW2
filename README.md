@@ -36,3 +36,8 @@ regression-106368013LinChenJu created by GitHub Classroom
 ![image](https://github.com/106368013LinChenJu/HW2/blob/master/7.JPG)
 ![image](https://github.com/106368013LinChenJu/HW2/blob/master/1.png)
 ![image](https://github.com/106368013LinChenJu/HW2/blob/master/2.png)
+
+
+8.kaggle leaderboard圖
+
+![image](https://github.com/106368013LinChenJu/HW2/blob/master/8.JPG)
